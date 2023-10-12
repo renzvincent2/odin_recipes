@@ -1,2 +1,2 @@
-# odin_recipes
-The odin project foundations
+# odin-recipe
+Hi! This is my first project. This website contains main index page that will link to few pinoy recipes.
